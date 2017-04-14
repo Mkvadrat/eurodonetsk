@@ -1,0 +1,3 @@
+﻿[title]Эвакуаторы в Донецке![/title]
+[text] Служба "Техпомошь на дороге. Эвакуаторы"[/text]
+[link]index.php?business_full=392&pm=1"[/link]

@@ -1,0 +1,3 @@
+﻿[title]La Petite France[/title]
+[text]Мастер-класс во французской кофейне La Petite France...[/text]
+[link]index.php?section_id=85"[/link]

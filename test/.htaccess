@@ -1,0 +1,4 @@
+AuthName "test"
+AuthUserFile "/home/furso1/.htpasswds/public_html/test/passwd"
+AuthType Basic
+require valid-user

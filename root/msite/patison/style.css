@@ -1,0 +1,114 @@
+@charset "utf-8";
+/* CSS Document */
+#main_patison {
+				width:980px;
+				margin:10px auto 50px auto;
+				overflow:hidden;
+				}
+#menu_patison {
+		margin:3px auto 3px auto;
+		height:60px;
+		}
+#menu_patison ul {list-style:none; margin:0 50px 0 110px; }
+#menu_patison li {
+			float:left;
+			display:block;
+			padding:0 10px 0 10px;
+			}
+#menu_patison a {
+			padding:15px 10px 0 10px;
+			font-size:24px;	
+			font-family:Georgia;
+			color:#000;
+			text-decoration:none;		
+		}
+#menu_patison a:hover {
+			padding:15px 10px 0 10px;
+			font-size:24px;	
+			font-family:Georgia;
+			color:#92de05;
+			text-decoration:none;		
+		}		
+#content_patison {
+			width:960px;
+			margin:0 auto 10px auto;
+			overflow:hidden;
+		}		
+#left_patison { 
+		width:251px;
+		float:left;
+		overflow:hidden;
+		}
+		
+#ufo_patison {
+		width:241px;
+		height:328px;
+		background-color:#dbdbdb;
+		border:5px solid #92de05;
+		}
+#ufo_patison img {margin:0 10px 0 30px;}
+#phone_patison {
+			width:241px;
+			background-color:#dbdbdb;
+			border:5px solid #92de05;
+			text-align:center;
+			margin:10px 0 0 0;
+			padding:20px 0 25px 0;
+		}
+#phone_patison p {font-size:18px; padding:0; margin:0;}
+#phone_patison a {color:#000; font-size:18px; text-decoration:none;}	
+#phone_patison a:hover {color:#000; font-size:18px; text-decoration:underline;}			
+#baner_patison {
+			margin:10px 0 0 0;
+			width:241px;
+			border:5px solid #92de05;
+		}
+#baner_patison img {padding:0;}				
+#reft_patison {
+		width:699px;
+		float:right;
+		overflow:hidden;
+		}
+		
+#logo_patison {
+		background-image:url(logo.jpg);
+		width:689px;
+		height:328px;
+		border:5px solid #92de05;
+		}
+		
+#nav_patison 	{
+		margin:220px auto 30px auto;
+		text-align:center;
+		font-size:16px;
+		font-family:Tahoma;
+		padding:0;		
+		}
+#nav_patison p{padding:0; margin:0}
+#nav_patison img {padding-left:3px;}
+#nav_patison a {color:#000; text-decoration:none; font-size:14px; font-weight:bold;}
+#nav_patison a:hover {color:#000; text-decoration:none;}
+
+#text_patison {
+		margin:10px 0 0 0;
+		width:689px;
+		overflow:hidden;
+		border:5px solid #92de05;
+		text-align:center;
+		font-size:18px;
+		}		
+#text_patison p {text-align:justify; padding:0 15px 0 15px;}		
+#text_patison a {font-size:18px; color:#000; text-decoration:none;}		
+#text_patison h1 {font-size:24px; text-decoration:underline; margin:40px 0 20px 0;}	
+#text_patison img {border:3px solid #92de05;}
+
+#uslugi_patison {margin:10px 0 60px 0;}
+#uslugi_patison p {padding:1px 15px 0 15px; margin:0;}
+#uslugi_patison h3 {font-size:18px; margin:10px 0 10px 0;}
+
+#footer_patison {width:60px; margin:10px auto 15px auto; border:1px solid #92de05;}
+
+
+
+
+				

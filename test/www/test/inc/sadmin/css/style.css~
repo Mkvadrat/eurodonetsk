@@ -1,0 +1,55 @@
+html,body{margin:0;padding:0; font-size:12px;font-family: helvetica neue, helvetica-neue, helvetica, arial, sans-serif;letter-spacing: 0px;background-color: white;}
+img{border:0}
+h1 {font-size:16px;}
+a { text-decoration:none; color:#0D4793;}
+a:hover { text-decoration:underline; text-shadow: none;color:#ec5d0e;}
+
+#lang_str {float:right;margin-top:5px;}
+#top_edit {margin-top:30px;}
+#page_edit {margin-top:30px;}
+.header_upline_fl {float:left;padding:0 5px;}
+.center_menu {float:left;margin:3px 0 10px;width:100%;background-image:url('../../../images/bg102.gif');border:1px solid #D9D9D9;}
+.center_menu div{float:left;padding:0 15px;border:1px solid #D9D9D9;border-top:none;border-bottom:none;border-left:none;}
+table.manager_branch {float:left;}
+table.tab_class {float:left;}
+#manager {margin:0 20px;}
+#confirm {margin:0 20px;}
+#ban {margin:0 20px;}
+table#all_pages_tab {width:970px;}
+td.all_pages_td1 {width:30px;}
+td.all_pages_td2 {width:20px;text-align:center;}
+td.all_pages_td3 {width:860px;}
+td.all_pages_td4 {width:20px;}
+td.all_pages_td5 {width:20px;}
+td.all_pages_td6 {width:20px;}
+
+tr.bus_confirm_0 td{text-align:center;}
+td.bus_confirm_1 {width:30px;text-align:center;}
+td.bus_confirm_2 {width:600px;}
+td.bus_confirm_3 {width:30px;text-align:center;}
+td.bus_confirm_4 {width:270px;text-align:center;font-weight:bold;}
+td.bus_confirm_5 {width:20px;text-align:center;}
+td.bus_confirm_6 {width:20px;text-align:center;}
+
+tr.bus_edit_0 td{text-align:center;}
+td.bus_edit_1 {width:30px;text-align:center;}
+td.bus_edit_2 {width:820px;}
+td.bus_edit_3 {width:30px;text-align:center;}
+td.bus_edit_4 {width:50px;text-align:center;font-weight:bold;}
+td.bus_edit_5 {width:20px;text-align:center;}
+td.bus_edit_6 {width:20px;text-align:center;}
+
+table#all_pages_tab_ip {width:765px;}
+td.ip_confirm_1 {width:20px;text-align:center;}
+td.ip_confirm_2 {width:200px;text-align:center;}
+td.ip_confirm_3 {width:525px;text-align:center;}
+td.ip_confirm_4 {width:20px;text-align:center;}
+
+/*Разбор формы при добавлении нового предприятия*/
+div.catalogue_item {float:left;width:480px;border:1px solid #cccccc;}
+div.catalogue_item_r {float:left;width:480px;border:2px solid #FF0000;}
+div.catalogue_h {color:#ec5d0e;font-weight:bold;margin:0;padding-right:5px;}
+div.catalogue_h_r {color:#FF0000;font-weight:bold;margin:0;padding-right:5px;}
+img.bus_sec_image {float:left;clear:none;display:inline;border:#ccc 1px solid;background-color:#ffffff;margin:3px 10px 10px 0;}
+#center_column_b {float:left;width:500px;margin:30px 0 20px;background-image:url('../../images/bg102.gif');border:1px solid #D9D9D9;margin-right:10px;}
+.main_sec_preview div {margin:10px;text-align:justify;}

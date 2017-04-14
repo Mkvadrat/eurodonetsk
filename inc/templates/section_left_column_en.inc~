@@ -1,0 +1,17 @@
+<?php
+  $string_sub_menu_news = get_sub_menu_news($_GET['section_id']);
+  echo $string_sub_menu_news;
+  
+  if (strlen($string_sub_menu_news) > 0)
+    $str_for_banner = "left_banner_sections";
+  else
+    $str_for_banner = "left_banner_main_modif";     
+?>
+<div id="<?php echo $str_for_banner; ?>">
+  <a href="index.php" ><img src="" alt="" /></a>
+  <script type="text/javascript">
+  var widget_so = new SWFObject("root/m2_banner.swf", "banner_flash", "235", "250", "1", "#ffffff");
+
+  widget_so.write("<?php echo $str_for_banner; ?>");
+  </script>
+</div>

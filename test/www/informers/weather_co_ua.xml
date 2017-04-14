@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?><forecast version="1.2" last_updated="Thu, 11 Nov 2010 12:29:20 +0200">
+	<url>https://weather.co.ua/show/?7</url>
+	<city id="7">
+		<name>Donetsk</name>
+		<name_en>Donetsk</name_en>
+		<region>
+			<name>Donets'k region</name>
+			<name_en>Donets'k region</name_en>
+		</region>
+		<country id="804">
+			<name>Ukraine</name>
+			<name_en>Ukraine</name_en>
+		</country>
+	</city>
+	<current last_updated="Thu, 11 Nov 2010 11:23:15 +0200" expires="Thu, 11 Nov 2010 11:58:15 +0200">
+		<time>Thu, 11 Nov 2010 12:00:00 +0200</time>
+		<cloud>0</cloud>
+		<pict>_0_sun.gif</pict>
+		<t>+16</t>
+		<t_flik>+16</t_flik>
+		<p>759</p>
+		<w>6</w>
+		<w_gust>0</w_gust>
+		<w_rumb>210</w_rumb>
+		<h>68</h>
+	</current>
+	<forecast>
+		<day date="2010-11-11" hour="15">
+			<cloud>15</cloud>
+			<pict>_1_sun_cl.gif</pict>
+			<ppcp>0</ppcp>
+			<t>
+				<min>16</min>
+				<max>18</max>
+			</t>
+			<p>
+				<min>741</min>
+				<max>743</max>
+			</p>
+			<wind>
+				<min>5</min>
+				<max>7</max>
+				<rumb>225</rumb>
+			</wind>
+			<hmid>
+				<min>70</min>
+				<max>72</max>
+			</hmid>
+			<wpi>99</wpi>
+		</day>
+		<day date="2010-11-11" hour="21">
+			<cloud>15</cloud>
+			<pict>_1_moon_cl.gif</pict>
+			<ppcp>0</ppcp>
+			<t>
+				<min>12</min>
+				<max>15</max>
+			</t>
+			<p>
+				<min>742</min>
+				<max>744</max>
+			</p>
+			<wind>
+				<min>3</min>
+				<max>5</max>
+				<rumb>213</rumb>
+			</wind>
+			<hmid>
+				<min>92</min>
+				<max>94</max>
+			</hmid>
+			<wpi>99</wpi>
+		</day>
+		<day date="2010-11-12" hour="3">
+			<cloud>15</cloud>
+			<pict>_1_moon_cl.gif</pict>
+			<ppcp>0</ppcp>
+			<t>
+				<min>12</min>
+				<max>13</max>
+			</t>
+			<p>
+				<min>741</min>
+				<max>743</max>
+			</p>
+			<wind>
+				<min>2</min>
+				<max>4</max>
+				<rumb>190</rumb>
+			</wind>
+			<hmid>
+				<min>92</min>
+				<max>94</max>
+			</hmid>
+			<wpi>95</wpi>
+		</day>
+		<day date="2010-11-12" hour="9">
+			<cloud>15</cloud>
+			<pict>_1_sun_cl.gif</pict>
+			<ppcp>0</ppcp>
+			<t>
+				<min>12</min>
+				<max>14</max>
+			</t>
+			<p>
+				<min>740</min>
+				<max>742</max>
+			</p>
+			<wind>
+				<min>4</min>
+				<max>6</max>
+				<rumb>190</rumb>
+			</wind>
+			<hmid>
+				<min>92</min>
+				<max>94</max>
+			</hmid>
+			<wpi>99</wpi>
+		</day>
+	</forecast>
+</forecast>

@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "inc"
+AuthUserFile "/home/don/.htpasswds/public_html/inc/passwd"
+require valid-user

@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?><forecast version="1.2" last_updated="Mon, 27 Aug 2012 01:51:53 +0300">
+	<url>http://www.weather.ua/show/?7</url>
+	<city id="7">
+		<name>Donetsk</name>
+		<name_en>Donetsk</name_en>
+		<region>
+			<name>Donets'k region</name>
+			<name_en>Donets'k region</name_en>
+		</region>
+		<country id="804">
+			<name>Ukraine</name>
+			<name_en>Ukraine</name_en>
+		</country>
+	</city>
+	<current last_updated="Mon, 27 Aug 2012 01:51:05 +0300" expires="Mon, 27 Aug 2012 02:26:05 +0300">
+		<time>Mon, 27 Aug 2012 01:51:05 +0300</time>
+		<cloud>0</cloud>
+		<pict>_0_moon.gif</pict>
+		<t>+22</t>
+		<t_flik>+22</t_flik>
+		<p>737</p>
+		<w>3</w>
+		<w_gust>0</w_gust>
+		<w_rumb>70</w_rumb>
+		<h>60</h>
+	</current>
+	<forecast>
+		<day date="2012-08-27" hour="3">
+			<cloud>0</cloud>
+			<pict>_0_moon.gif</pict>
+			<ppcp>24</ppcp>
+			<t>
+				<min>19</min>
+				<max>21</max>
+			</t>
+			<p>
+				<min>743</min>
+				<max>745</max>
+			</p>
+			<wind>
+				<min>3</min>
+				<max>5</max>
+				<rumb>90</rumb>
+			</wind>
+			<hmid>
+				<min>72</min>
+				<max>74</max>
+			</hmid>
+			<wpi>73</wpi>
+		</day>
+		<day date="2012-08-27" hour="9">
+			<cloud>0</cloud>
+			<pict>_0_sun.gif</pict>
+			<ppcp>36</ppcp>
+			<t>
+				<min>23</min>
+				<max>27</max>
+			</t>
+			<p>
+				<min>735</min>
+				<max>737</max>
+			</p>
+			<wind>
+				<min>3</min>
+				<max>5</max>
+				<rumb>90</rumb>
+			</wind>
+			<hmid>
+				<min>60</min>
+				<max>62</max>
+			</hmid>
+			<wpi>71</wpi>
+		</day>
+		<day date="2012-08-27" hour="15">
+			<cloud>60</cloud>
+			<pict>_6_lightning.gif</pict>
+			<ppcp>50</ppcp>
+			<t>
+				<min>30</min>
+				<max>33</max>
+			</t>
+			<p>
+				<min>733</min>
+				<max>735</max>
+			</p>
+			<wind>
+				<min>3</min>
+				<max>5</max>
+				<rumb>135</rumb>
+			</wind>
+			<hmid>
+				<min>42</min>
+				<max>44</max>
+			</hmid>
+			<wpi>79</wpi>
+		</day>
+		<day date="2012-08-27" hour="21">
+			<cloud>50</cloud>
+			<pict>_5_rain.gif</pict>
+			<ppcp>52</ppcp>
+			<t>
+				<min>22</min>
+				<max>27</max>
+			</t>
+			<p>
+				<min>740</min>
+				<max>742</max>
+			</p>
+			<wind>
+				<min>2</min>
+				<max>4</max>
+				<rumb>90</rumb>
+			</wind>
+			<hmid>
+				<min>64</min>
+				<max>66</max>
+			</hmid>
+			<wpi>80</wpi>
+		</day>
+	</forecast>
+</forecast>

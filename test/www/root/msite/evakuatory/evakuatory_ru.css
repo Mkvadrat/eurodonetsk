@@ -1,0 +1,31 @@
+.catalogue_item_cont p {
+color:black;
+margin:10px;
+text-align:justify;
+text-indent:0px;
+}
+.catalogue_item_cont {
+background-color:#EBEBEB;
+border-top:1px solid lightgray;
+margin:0 0 7px 4px;
+width:99%;
+}
+.catalogue_item_c {
+background-color:#FFFFFF;
+}
+img.main_sec_image {
+padding:0px;
+width:250px;
+height:160px;
+}
+.catalogue_item_cont a {
+color:#10154F;
+}
+.catalogue_item_cont a:hover {
+color:#FFFFFF;
+text-decoration:none;
+}
+.catalogue_item_mp_a {
+left:-3px;
+position:relative;
+}

@@ -1,0 +1,9 @@
+<Files "\.(inc)$">
+  Order Deny,Allow
+  Deny from all
+</Files>
+
+AuthName "inc"
+AuthType Basic
+require valid-user
+AuthUserFile "/home/furso1/.htpasswds/public_html/test/www/test/inc/passwd"

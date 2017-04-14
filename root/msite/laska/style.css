@@ -1,0 +1,52 @@
+@charset "utf-8";
+/* CSS Document */
+#logo_laska {
+				width:976px;
+				height:160px;
+				background-repeat:no-repeat;
+				margin:0 auto 0 auto;
+			}		
+#logo_laska p {padding:0; margin:0;} 
+
+
+#onas_laska    {
+				margin:30px auto 0 auto;
+				width:900px;				
+				}
+#onas_laska p {
+				font-size:18px;
+				font-family:Helvetica;
+				margin:5px 5px 10px 0;
+				text-align:justify;
+				}
+#onas_laska a {font-family:Helvetica; color:#06F; font-size:20px;}				
+#onas_laska a:hover {font-family:Helvetica; color:#06F; text-decoration:none; font-size:20px;}	
+
+#uslugi_laska_1 {
+					width:900px; 
+					background-color:#e0d5ca; 
+					margin:15px auto 10px auto; 
+					overflow:hidden;
+				}
+#uslugi_laska_1 p {padding:25px 0 10px 15px;}
+#uslugi_laska_1 a {text-decoration:none; color:#000;}
+#uslugi_laska_1 a:hover {text-decoration:underline;}
+#display_laska_1 {display:none;}
+#display_laska_1 p {padding:3px 15px 10px 10px; text-align:justify; font-size:18px;}
+
+#uslugi_laska_2    {
+					margin:10px 0 0 0; 
+					width:900px; 
+					background-color:#e0d5ca; 
+					margin:15px auto 10px auto; 
+					overflow:hidden;
+					}					
+#uslugi_laska_2 a {text-decoration:none; color:#000;}
+#uslugi_laska_2 a:hover {text-decoration:underline;}
+#uslugi_laska_2 p {padding:25px 0 10px 15px;}
+#display_laska_2 {display:none;}
+#display_laska_2 p {padding:3px 15px 10px 10px; text-align:justify; font-size:18px;}
+
+
+
+			

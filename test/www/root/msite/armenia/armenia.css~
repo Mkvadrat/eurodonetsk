@@ -1,0 +1,8 @@
+.catalogue_item_cont p {
+color:black;
+margin:10px;
+text-align:justify;
+text-indent:30px;
+}
+.catalogue_item_mp_a{ height: 18px; background: white; float: left;   margin-left: 7px;  border-top: 1px solid lightgray;  border-right: 1px solid lightgray;  border-left: 1px  solid lightgray;}
+.catalogue_item_mp{ height: 18px; background: #f1f1f1 ; float: left;   margin-left: 7px; border-top: 1px solid lightgray; border-right: 1px solid lightgray; border-left: 1px  solid lightgray;}

@@ -1,0 +1,204 @@
+*{ 
+margin: 0; 
+padding: 0; 
+}
+
+body{
+	background: white;
+	font: 10px Geneva, Verdana, Arial, Helvetica, sans-serif;
+	color: Black;
+}
+
+div A:link {
+	COLOR: White;
+	TEXT-DECORATION: none;
+	font-family: "Geneva", "Arial", "Helvetica", "sans-serif";
+	font-size: 12px;
+	font-style: italic;
+}
+div A:visited {
+	COLOR:  Silver;
+	TEXT-DECORATION: none;
+	font-family: "Geneva", "Arial", "Helvetica", "sans-serif";
+	font-size: 12px;
+	font-style: italic;
+}
+div A:hover {
+	COLOR:  White;
+	TEXT-DECORATION: underline;
+	font-family: "Geneva", "Arial", "Helvetica", "sans-serif";
+	font-size: 12px;
+}
+
+#main {
+	margin:0 auto;
+	width: 900px;
+	border: 1px double #252525;
+}
+
+a.txt:link {
+	text-decoration: none;
+	color: black;
+	font-style: normal;
+}
+a.txt:visited {
+	color:  Gray; 
+	font-style: normal;`
+}
+a.txt:active {
+	text-decoration: underline;
+	color: black;
+	font-style: oblique;
+}
+a.txt:hover {
+	text-decoration: underline;
+	color: #393939;
+	font-style: normal;
+}
+h1{
+	color: Black;
+	font: 22px Verdana Geneva Arial Helvetica sans-serif;
+	text-align: center;
+}
+h2{
+	color: Black;
+	font: 16px Verdana Geneva Arial Helvetica sans-serif;
+}
+ol {
+	text-indent: 15px;
+}
+.menu_fon {
+width: 225px;
+height: 214px;
+float: left;
+background-image: url(img/menu_line.jpg);
+}
+.menu {
+	width: 50px;
+	height: 32px;
+	float: left;
+	display: table-cell;
+	vertical-align: middle;
+	margin-top: 10px;
+	text-align: center;
+}
+
+.punkt {
+	width: 175px;
+	height: 27px;
+	float: left;
+	margin-top: 15px;
+}
+
+.punkttxt{
+	display: table-cell;
+   vertical-align: middle;}
+.numer{
+	width: 20px;
+	height: 20px;
+	border: 3px ridge White;
+
+}
+.logo {
+width: 675px;
+height: 214px;
+float: left;
+background: #000000;
+}
+.logo1 {
+width: 675px;
+height: 185px;
+float: left;
+background: #ccc;
+}
+.search {
+width: 675px;
+height: 29px;
+float: left;
+ background-image: url(img/search_line.jpg);
+ 	border-bottom: 2px Black;
+	border-left: 2px Black;
+}
+.footer {
+width: 900px;
+height: 52px;
+clear: both;
+background-image: url(img/bottom_line.jpg);
+}
+.leftcolumn {
+	width: 225px;
+	height: 980px;
+	float: left;
+	background-color: black;
+	
+
+}
+.content {
+width: 675px;
+height: 980px;
+float: left;
+background: #ccc;
+}
+.content_col {
+width: 335px;
+height: 980px;
+float: left;
+}
+
+.galery{
+	height: 83px;
+	width: 172px;
+	margin: 0 auto;
+	background-image: url(img/gallery.jpg);
+}
+.galery_ln{
+	height: 25px;
+	width: 172px;
+	margin: 0 auto;
+}
+.galery_ln1{
+	height: 7px;
+	width: 172px;
+	margin: 0 auto;
+}
+.galery_img{
+	height: 69px;
+	width: 155px;
+display: table-cell;
+vertical-align: middle;
+}
+
+.foot{
+	font: 12px Verdana, Geneva, Arial, Helvetica, sans-serif;
+	margin-top: 5px;
+	text-align: center;
+	color: White;
+}
+
+.form_search{
+	font: 9px;
+	margin-bottom: 5px;
+	background: Silver;
+}
+.button_search{
+	margin-top: 3px;
+}
+
+ol.content_txt{
+	font: 12px Verdana, Geneva, Arial, Helvetica, sans-serif;
+	color: Black;
+	margin: 40px 55px 0px;
+   line-height: 1.4;
+}
+
+.info{
+	width: 600px;
+	float: left;
+	margin: 5%;
+	vertical-align: top;
+	
+}
+.info_txt{
+
+	font: 12px Verdana, Geneva, Arial, Helvetica, sans-serif;
+}

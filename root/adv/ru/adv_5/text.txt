@@ -1,0 +1,3 @@
+﻿[title]Ресторан "Африка"[/title]
+[text]23 февраля в ресторане "Африка"[/text]
+[link]index.php?section_id=84&id_page=672[/link]

@@ -1,0 +1,6 @@
+
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^seul.eurodonetsk.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www.seul.eurodonetsk.com$
+RewriteRule ^/?$ "http\:\/\/www\.eurodonetsk\.com\/index\.php\?business_full\=393\&pm\=1" [R=301,L]
+

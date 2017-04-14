@@ -1,0 +1,3 @@
+#text_prev {background-image:url("../../../images/bg102.gif");}
+#main_news_title {background-image:url("../../../images/bg102.gif");}
+#text_prev p {margin:3px;}

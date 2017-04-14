@@ -1,0 +1,12 @@
+.paid_d_c {width:100%;float:left;background-color:#f1f1f1;}
+.paid_d_cont{width:98%;float:left;background-color:white;margin:7px;margin-top:0px;border:1px solid lightgray;border-top:0px;font-size: 14px;}
+.paid_d_cont a{color:#000000;}
+.paid_d_mp{height:18px;background:white;float:left;margin-left:7px;border:1px solid lightgray;border-bottom:0;}
+.paid_d_mp a{margin:3px 10px 0;color:gray;text-decoration:none;font-size:14px;font-weight:normal;}
+    
+.paid_c_p{width:60px;height:60px;float:left;border-color:black;background-color: white;margin:10px 9px 5px;border:#ccc 1px solid;}
+.paid_c_p a{margin:0;}
+.paid_c_p img{width:60px;height:60px;}
+.catalogue_h a{font-size:14px; margin:3px 50px 0;float:left;font-weight:bold;}
+.postimage_a{float:left;clear:none;display:inline;border:#ccc 1px solid;margin:5px;}
+

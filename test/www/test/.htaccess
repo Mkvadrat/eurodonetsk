@@ -1,0 +1,6 @@
+
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^pravis.eurodonetsk.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www.pravis.eurodonetsk.com$
+RewriteRule ^/?$ "http\:\/\/pravis\.ua" [R=301,L]
+

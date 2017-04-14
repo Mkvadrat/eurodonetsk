@@ -1,0 +1,25 @@
+.catalogue_item_cont p {
+color:black;
+margin:10px;
+text-align:justify;
+text-indent:30px;
+}
+.lite_tbl td{ 	border: 1px solid gray;   border-collapse: collapse; }
+.catalogue_item_c{	width: 100%;  float: left; background-color:  #f1f1f1 ; }
+.catalogue_item_cont{	width: 98%;  float: left; background-color:  white ; margin: 7px; margin-top: 0px; border: 1px  solid lightgray;   border-top: 0px;    font-size: 12px; font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;}
+div#div#catalogue_item_menu{width: 100px; height: 18px;  float: left; }
+.catalogue_item_mp_a{ height: 18px; background: white; float: left;   margin-left: 7px;  border-top: 1px solid lightgray;  border-right: 1px solid lightgray;  border-left: 1px  solid lightgray;}
+.catalogue_item_mp{ height: 18px; background: #f1f1f1 ; float: left;   margin-left: 7px; border-top: 1px solid lightgray; border-right: 1px solid lightgray; border-left: 1px  solid lightgray;}
+.catalogue_item_cont p{ margin: 10px; text-align: justify;	text-indent: 30px;	color: gray;  }
+.catalogue_item_cont h3{color: #696969; }
+.catalogue_item_cont h1, h2, h3, h4, h5{	text-align: center;}
+.catalogue_item_mp_a a{	margin-left: 10px; margin-right: 10px; margin-top: 3px; color: gray;  text-decoration: none;font-size: 14px; font-family: Tahoma; font-weight: normal;}
+.catalogue_item_mp a{margin-left: 10px; margin-right: 10px; margin-top: 3px; color: gray;  text-decoration: none;font-size: 14px; font-family: Tahoma; font-weight: normal;}
+.catalogue_item1{	width: 100%;  float: left; background-color:  #f1f1f1; }
+.catalogue_h1{	   color: blue; font-family: Verdana, Geneva, Arial, Helvetica, sans-serif; font-size: 16px; margin-right: 50px; margin-top: 3px; float: left; font-weight: bold;}
+.catalogue_item_cont a{	margin-left: 10px; margin-right: 10px; margin-top: 3px; color: gray;  text-decoration: none;font-size: 14px; font-family: Tahoma; font-weight: normal;}
+.catalogue_item_cont a:hover{	color: black;  }
+.catalogue_pic_l{	width: 60px; height: 60px; float: left; border-color: black; background-color: white; margin: 5px; margin-right: 9px; margin-top: 10px; border:#ccc 1px solid;}
+.catalogue_pic_l a{ margin: 0px 0px 0px 0px; }
+.catalogue_h a {   color: blue; font-family: Verdana, Geneva, Arial, Helvetica, sans-serif; font-size: 14px; margin-right: 50px; margin-top: 3px; float: left; font-weight: bold;}
+.postimage_a{float:left;clear:none;display:inline;border:#ccc 1px solid;margin:5px;}

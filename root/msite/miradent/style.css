@@ -1,0 +1,233 @@
+@charset "utf-8";
+/* CSS Document */
+
+*{padding:0; margin:0}
+
+#main_miradent {	width:980px;
+					margin:10px auto 10px auto;
+					background-color:#f1f1f1;
+					border-bottom:5px solid #f1f1f1;
+				}
+#menu_miradent {	
+					margin:43px 0 0 0;
+					height:50px;		
+				}		
+#menu_miradent ul { list-style:none;}
+#menu_miradent li { float:left; margin:2px 1px 0 1px; height:50px; }
+#menu_miradent span {text-align:center; font-size:16px;}
+#menu_miradent a { 
+			color:#e0532e; 
+			text-decoration:none; 
+			font-size:18px; 
+			background-image: url(button.png); 
+			display:block; 
+			height:50px;
+			width:90px; 
+			text-align:center; 
+			}			
+#menu_miradent a:hover { 
+				color:#e0532e; 
+				text-decoration:none; 
+				font-size:18px; 
+				background-image: url(button_hover.png); 
+				display:block; 
+				height:50px; 
+				text-align:center;
+				width:90px; 
+				}
+#mir_miradent a { 
+			color:#e0532e; 
+			text-decoration:none; 
+			font-size:18px; 
+			background-image: url(button.png); background-repeat:no-repeat;
+			display:block; 
+			height:50px;
+			width:140px; 
+			text-align:center; 
+			padding:15px 0 5px 0;
+			}
+			
+#mir_miradent a:hover 	{ 
+				color:#e0532e; 
+				text-decoration:none; 
+				font-size:18px; 
+				background-image: url(button_hover.png);  background-repeat:no-repeat;
+				display:block; 
+				height:50px; 
+				text-align:center;
+				width:140px; 
+				padding:15px 0 5px 0;
+				}
+
+
+
+#blic_miradent a { 
+			color:#e0532e; 
+			text-decoration:none; 
+			font-size:18px; 
+			background-image: url(button.png); background-repeat:no-repeat;
+			display:block; 
+			height:50px;
+			width:140px; 
+			text-align:center; 
+			padding:5px 0 5px 0;
+			}
+#blic_miradent a:hover 	{ 
+				color:#e0532e; 
+				text-decoration:none; 
+				font-size:18px; 
+				background-image: url(button_hover.png);  	background-repeat:no-repeat;
+				display:block; 
+				height:50px; 
+				text-align:center;
+				width:140px; 
+				padding:5px 0 5px 0;
+				}
+			
+			
+#link_r_miradent li { float:left; margin:2px 1px 0 1px; height:50px; width:120px;}
+
+#link_r_miradent a { 
+			color:#e0532e; 
+			text-decoration:none; 
+			font-size:18px; 
+			background-image: url(buttonkont.png); 
+			display:block; 
+			height:50px; 
+			text-align:center; 
+			width:120px;
+			filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="./file's/buttonkont.png", sizingMethod='crop');//background:;
+			}
+			
+#link_r_miradent a:hover { 
+			color:#e0532e; 
+			text-decoration:none; 
+			font-size:18px; 
+			background-image: url(buttonkont_hover.png); 
+			display:block; 
+			height:50px;
+			width:120px; 
+			text-align:center; 
+			filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="./file's/buttonkont_hover.png", sizingMethod='crop');//background:; 
+			}
+
+
+										/* --LEFT BUTTOM--*/
+
+#tab_content_miradent {
+		margin:0 auto 10px auto;
+		background-color:#FFF;
+		font-family:Georgia, "Times New Roman", Times, serif;
+	}
+	
+#left_content_miradent {
+		width:260px;
+		vertical-align:top;
+	}
+		
+#left_content_miradent span {
+			text-align:center;  
+			}
+#left_content_miradent a { 
+			color:#e0532e; 
+			text-decoration:none; 
+			font-size:22px; 
+			background-image: url(oval.jpg); 
+			background-repeat:no-repeat; 
+			display:block; 
+			height:250px; 
+			width:250; 
+			text-align:center; 
+			border:none;
+			padding:15px 0 0 0;
+			filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="./file's/zub.png", sizingMethod='crop');//background:;
+			}	
+	
+#left_content_miradent a:hover { 
+				color:#e0532e; 
+				text-decoration:none; 
+				font-size:20px;
+				font-style:italic;
+				font-weight:bold; 
+				background-image: url(oval_hover.jpg); 
+				background-repeat:no-repeat; 
+				display:block; 
+				height:250px; 
+				width:250; 
+				text-align:center;
+				border:none; 
+				filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="./file's/zub_hover.png", sizingMethod='crop');//background:;
+				}
+#left_content_miradent a:active { 
+				color:#000; 
+				text-decoration:none; 
+				font-size:20px;
+				font-style:italic;
+				font-weight:bold; 
+				background-image: url(oval_hover.jpg); 
+				background-repeat:no-repeat; 
+				display:block; 
+				height:250px; 
+				width:250; 
+				text-align:center;
+				border:none; 
+				filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="./file's/zub_hover.png", sizingMethod='crop');//background:;
+				}
+
+
+												/* --TEXT_CONTENT--*/
+												
+#text_content_miradent p {	
+			padding:15px 25px 15px 5px;
+			font-size:20px;
+			font-family:Times New Roman;
+			text-align: justify;
+			}
+#text_content_miradent hr{ width:85%; color:#006; margin:5px auto 5px auto;}			
+#text_content_miradent span { font-size:16px; font-style:italic; font-weight:900; padding:5px 0 0 5px;}
+#text_content_miradent h3 { font-size:22px;
+			font-family:Helvetica;
+			padding:50px 0 0 5px;
+			text-align:center;
+			text-decoration:underline;
+     		}
+
+#text_content_miradent h1 {font-size:20px; margin:25px 0 10px 0; text-align:center;}
+#text_content_miradent h6 {font-size:18px; text-align:center; font-weight:400; color:#0C0;}
+#text_content_miradent h4 {font-size:18px; text-align:center; font-weight:bold; color:#0C0;}
+#text_content_miradent h2 {	color: #00C;
+			text-align:left;
+			font-size:16px;
+			padding:5px 0  3px 5px;
+			}
+#text_content_miradent h5 {font-size:16px; font-style:italic; font-weight:900; padding:5px 0 0 5px;}			
+#text_content_miradent ul  {padding:0 0 0 20px;}				
+#text_content_miradent li {font-size:16px; font-family:"Myriad Pro"; padding:5px 25px 5px 10px;}
+#text_content_miradent a {text-decoration:none; padding:5px 10px 15px 15px; color:#006;}
+#text_content_miradent a:hover {text-decoration:underline;} 
+
+#est_rev_content_miradent {display:none;}
+#otbel_content_miradent {display:none;}
+#ortoped_content_miradent {display:none;}
+
+#price_miradent {
+					width:90%;
+					margin:30px auto 40px auto;
+					color:#003;
+					font-family:Arial, Helvetica, sans-serif;
+				 }
+#price_miradent h3 {
+					color:#0C0; 
+					font-size:16px; 
+					text-align:left; 
+					padding:0; 
+					text-decoration:none;
+					}
+#price_miradent h1 {
+					color:#0C0; 
+					font-size:17px; 
+					text-align:center; 
+					padding:5px 0;
+					}
+
+

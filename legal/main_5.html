@@ -1,0 +1,75 @@
+﻿<HTML>
+<HEAD>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+<link type="text/css" rel="stylesheet" href="css/main.css" media="all">
+</HEAD>
+<body>
+	<div id="content">
+		<table cellpadding="0" cellspacing="0" id="main_table">
+			<tr>
+				<td id="header_left"><div id="logo_text"><font color="#4a3c1c">Юридическая фирма</font><br/><font color="#867858">"ВОЛКОВСКИЙ и ПАРТНЁРЫ"</font></div></td>
+				<td id="header_right"><div id="logo_adress">ул. Терешковой д. 35, кв. 36<br/>г. Донецк, Украина, 83120<br/>тел.: +38 (099) 200-66-66<br/>e-mail: u_volkovskiy@yahoo.com</div></td>
+			</tr>
+			<tr id="header_split"><td></td><td></td></tr>
+			<tr>
+				<td id="main_text_2"><p>г. Донецк, Украина, 83120, ул. Терешковой д. 35, кв. 36<br>
+			      <br>
+			      тел.: +38 (099) 200-66-66<br>
+			      e-mail: u_volkovskiy@yahoo.com<br>
+			      <br>
+				Карта проезда:</p>
+                <table width="100%" border="0">
+  <tr>
+    <td><div>
+      <div align="center">
+        <script src="http://api-maps.yandex.ru/1.1/index.xml?key=AAmDzUsBAAAARkVWCAIAXzMCgKN58_MQUqB134Sdp-unCH0AAAAAAAAAAACbJlz2mcKc4anRgbxx6LBZ5BHPyg==" type="text/javascript"></script>
+        
+        <script type="text/javascript">
+
+						window.onload = function () {
+
+							var map = new YMaps.Map(document.getElementById("YMapsID"));
+
+							map.setCenter(new YMaps.GeoPoint(37.697186,47.941992), 16);
+
+
+
+							var content = document.createElement('span');
+
+							content.innerHTML = " Волковский и партнеры ";
+
+							map.openBalloon(new YMaps.GeoPoint(37.697186,47.941992), content);
+
+
+
+							map.addControl(new YMaps.ToolBar());
+
+							map.addControl(new YMaps.Zoom());
+
+							map.addControl(new YMaps.MiniMap());
+
+							map.addControl(new YMaps.ScaleLine());
+
+						}
+
+                        </script>
+       </div>
+      <div id="YMapsID" style="width:65%; height:350px; position:relative; float:centr; top:20px; left: 140px; z-index:20; margin-bottom:40px;"></div>
+</div></td>
+  </tr>
+</table>
+
+			    <p>&nbsp;</p></td>
+				<td id="main_menu">
+					<div>&nbsp;< <a href="main_1.html">О нас</a></div>
+					<div>&nbsp;< <a href="main_2.html">Услуги</a></div>
+					<div>&nbsp;< <a href="#">Онлайн консультация</a></div>
+					<div>&nbsp;< <a href="main_4.html">Полезные ссылки</a></div>
+					<div>&nbsp;< <a href="main_5.html">Контакты</a></div>
+					<div style="background:url(img/menu_logo.png) no-repeat scroll 100% 0 transparent;border:0 none;height:250px;width:100%;"></div>
+				</td>
+			</tr>
+		</table>
+	</div>
+</body>
+</HTML>
